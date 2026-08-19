@@ -1,5 +1,6 @@
 export const BOOKING_URL = "https://www.booking.com/hotel/am/dreamers-hostel-amp-apartment.html?aid=356980&label=gog235jc-10CAsoB0IdZHJlYW1lcnMtaG9zdGVsLWFtcC1hcGFydG1lbnRIM1gDaAeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvDjztEGwAIB0gIkMTA2ZDU5ZjYtN2ZjZi00OTA0LTk3ZDgtOWEyOGQ0MWRhZGRh2AIB4AIB-Share-F950ZB%401787131511&sid=cb2cf08abbb0f55ee53f0577e5f47a58&checkin=2026-09-03&checkout=2026-09-08&dest_id=-2325645&dest_type=city&dist=0&group_adults=1&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=1&req_children=0&room1=A&sb_price_type=total&soh=1&sr_order=popularity&srepoch=1787131531&srpvid=b7a84242977500de&type=total&ucfs=1&#no_availability_msg";
-export const MAP_URL = "https://www.google.com/travel/hotels/s/KkY2ZdikJ6tq5y4a8";
+export const MAP_URL = "https://maps.app.goo.gl/ieRK64MhtZdtGS1N7";
+export const SITE_URL = "https://dreamers-lovat.vercel.app";
 
 export type Language = "en" | "ru";
 export type LocalText = { en: string; ru: string };
